@@ -1,4 +1,4 @@
-﻿/*
+/*
 Template Name: Istanbul - Personal Portfolio
 Author: Celtano
 Author URI: http://themeforest.net/user/celtano
@@ -1047,21 +1047,21 @@ main#main {
 }
 
 body.fullscreendark #main>section#home {
-  background-image: url('/img/fullscreendark.jpg');
+  background-image: url('img/fullscreendark.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 body.fullscreenlight #main>section#home {
-  background-image: url('/img/fullscreenlight.jpg');
+  background-image: url('img/fullscreenlight.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 body.fullscreenbgimage #main>section#home {
-  background-image: url('/img/fullscreenbgimage.jpg');
+  background-image: url('img/fullscreenbgimage.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1079,7 +1079,7 @@ body.fullscreenbgimage #main>section#home:after {
 }
 
 body.bgimage #main>section#home {
-  background-image: url('/img/leftimage-bg.jpg');
+  background-image: url('img/leftimage-bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2023,7 +2023,7 @@ body.blog {
 body.blog .container-fluid.page-title {
   background-repeat: no-repeat;
   background-position: center top;
-  background-image: url(/img/blog/banner.jpg);
+  background-image: url(img/blog/banner.jpg);
   padding: 0;
   margin-bottom: 60px;
 }
